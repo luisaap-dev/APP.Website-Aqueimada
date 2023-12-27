@@ -1,0 +1,17 @@
+ /* -- Estilos Formularios --*/
+ 
+ form{
+     border: 1px solid rgba(143, 116, 97, 1);
+     padding: 10px;
+ }
+ 
+ form p{
+     text-align: center;
+ }
+ form  .btn{
+    align-items: center;
+    color: white;
+    background-color: rgba(143, 116, 97, 1);
+    width: 100px ;
+}
+

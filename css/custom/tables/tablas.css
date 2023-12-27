@@ -1,0 +1,16 @@
+/* -- Estilos Tablas --*/
+
+table{border: 1px solid rgba(143, 116, 97, 1);}
+
+
+#thCabecera{
+  background-color: rgba(143, 116, 97, 1);
+  color: white;
+  width: 70%;
+}
+
+#thCabecera2{
+  background-color: rgba(143, 116, 97, 1);
+  color: white;
+  width: 30%;
+}

@@ -1,0 +1,22 @@
+/* -- Estilos Tabs --*/
+
+
+
+.tab-content{
+  background-color: rgba(143, 116, 97, 1);;
+  border: 1px solid white;
+  border-radius:15px;
+  padding: 2px;
+  margin-top: 10px;
+  
+}
+
+.tabs-color{
+  color: aliceblue;
+  text-align: justify;
+  padding: 2px;
+}
+
+#alergeno{
+  text-align: end;
+}

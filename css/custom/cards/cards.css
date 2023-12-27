@@ -1,0 +1,16 @@
+/* -- Estilos Cards --*/
+.card{
+  text-align: center;
+}
+
+.card-img-top{
+  width: 100%;
+}
+
+.card:hover{
+  background-color: rgba(143, 116, 97, 0.9);
+}
+
+.card:hover > div > a{
+  color: white;
+}

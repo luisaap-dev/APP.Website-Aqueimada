@@ -1,0 +1,33 @@
+/* -- Estilos Navegación --*/
+
+.logo {
+  width: 100px;
+}
+
+.bg-nav {
+  background-color: rgba(143, 116, 97, 0.9);
+  border-bottom: 1px solid black;
+}
+
+#active-nav {
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+#active-nav:hover {
+  background-color: white;
+  color: rgba(143, 116, 97, 1);
+}
+
+#a-nav:hover {
+  background-color: white;
+  border: 1px solid rgba(143, 116, 97, 0.9);
+  border-radius: 5px;
+  color: rgba(143, 116, 97, 0.9);
+}
+
+@media (max-width: 766px) {
+  .logo {
+    width: 70px;
+  }
+}

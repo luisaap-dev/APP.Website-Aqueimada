@@ -1,0 +1,30 @@
+/* -- Estilos Paginacion --*/
+
+.page-link{
+    border-color: rgba(143, 116, 97, 1);
+}
+
+#page-Activa{
+    background-color: rgba(143, 116, 97, 1);
+    color: white;
+}
+
+#page-Activa:hover{
+    
+    border: 1px solid rgba(143, 116, 97, 1);
+    
+}
+
+
+#page-NoActiva{
+    background-color: white;
+    
+    color: rgba(143, 116, 97, 0.9);
+}
+
+#page-NoActiva:hover{
+    background-color: rgba(143, 116, 97, 1);
+    color: white;
+    border: 1px solid rgba(143, 116, 97, 1);
+    
+}
