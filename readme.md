@@ -40,7 +40,7 @@ Este repositorio contiene el código fuente para el sitio web del Café Bar "A q
 
 ## Instrucciones de Despliegue
 
-1. Clona el repositorio: `git clone https://github.com/luisaap-dev/Website-Aqueimada.git`
+1. Clona el repositorio: `git clone https://github.com/luisaap-dev/APP.Website-Aqueimada.git`
 2. Abre el archivo `index.html` en tu navegador web.
 3. Explora las diferentes secciones del sitio utilizando la barra de navegación.
 
